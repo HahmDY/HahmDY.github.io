@@ -21,13 +21,13 @@ papers:
     website: "https://mobilesafetybench.github.io/"
     arxiv: "https://arxiv.org/abs/2410.17520"
     code: "https://github.com/jylee425/mobilesafetybench"
-    selected: n
+    selected: y
 
   - title: "[J1] Programmable Building Blocks via Internal Stress Engineering for 3D Collective Assembly"
     authors: "Woongbi Cho, <b><u>Dongyoon Hahm</u></b>, Jae Ha Yim, Jun Hee Lee, Yun Ju Lee, Dong‐Gyun Kim, Yong Seok Kim, Jeong Jae Wie"
     venue: "Advanced Materials Technologies, 2020 <b><span style='color: red;'>(Cover Article)</span></b>"
     arxiv: "https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/admt.202000758"
-    selected: n
+    selected: y
 
 # Homepages
 # Kimin Lee: https://sites.google.com/view/kiminlee/
