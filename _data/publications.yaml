@@ -1,0 +1,41 @@
+papers:
+
+  - title: "[C2] Enhancing LLM Agent Safety via Causal Influence Prompting"
+    authors: "<b><u>Dongyoon Hahm</u></b>, <a href='https://sites.google.com/view/kiminlee/group'>Woogyeol Jin</a>, <a href='https://choi403.github.io'>June Suk Choi</a>, <a href='https://sites.google.com/view/sungsooahn0215'>Sungsoo Ahn</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
+    venue: "Findings of the Association for Computational Linguistics <b>(ACL Findings)</b>, 2025"
+    arxiv: "https://arxiv.org/abs/2507.00979"
+    code: "https://github.com/HahmDY/causal_influence_prompting"
+    selected: y
+
+  - title: "[C1] B-MoCA: Benchmarking Mobile Device Control Agents across Diverse Configurations"
+    authors: "<a href='https://jylee425.github.io/'>Juyong Lee</a>, <a href='https://mintaywon.github.io'>Taywon Min</a>, Minyong An, <a href='https://sites.google.com/view/kiminlee/group'>Haeone Lee</a>, <b><u>Dongyoon Hahm</u></b>, <a href='https://changyeon.site'>Changyeon Kim</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
+    venue: "The Conference on Lifelong Learning Agents <b>(CoLLAs)</b>, 2025"
+    website: "https://mobilesafetybench.github.io/"
+    arxiv: "https://arxiv.org/abs/2410.17520"
+    code: "https://github.com/jylee425/mobilesafetybench"
+    selected: y
+
+  - title: "[P1] MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control"
+    authors: "<a href='https://jylee425.github.io/'>Juyong Lee<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <b><u>Dongyoon Hahm</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a href='https://choi403.github.io'>June Suk Choi<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://bradknox.net/'>W. Bradley Knox</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
+    venue: "Preprint"
+    website: "https://mobilesafetybench.github.io/"
+    arxiv: "https://arxiv.org/abs/2410.17520"
+    code: "https://github.com/jylee425/mobilesafetybench"
+    selected: y
+
+  - title: "[J1] Programmable Building Blocks via Internal Stress Engineering for 3D Collective Assembly"
+    authors: "Woongbi Cho, <b><u>Dongyoon Hahm</u></b>, Jae Ha Yim, Jun Hee Lee, Yun Ju Lee, Dong‐Gyun Kim, Yong Seok Kim, Jeong Jae Wie"
+    venue: "Advanced Materials Technologies, 2020 <b><span style='color: red;'>(Cover Article)</span></b>"
+    website: ""
+    arxiv: ""
+    code: ""
+    selected: y
+
+# Homepages
+# Kimin Lee: https://sites.google.com/view/kiminlee/
+# Juyong Lee: https://jylee425.github.io
+# June Suk Choi: https://choi403.github.io
+# Taywon Min: https://mintaywon.github.io
+# Haeone Lee: https://sites.google.com/view/kiminlee/group
+# Woogyeol Jin: https://sites.google.com/view/kiminlee/group
+# Changyeon Kim: https://changyeon.site
