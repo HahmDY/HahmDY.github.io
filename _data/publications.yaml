@@ -18,9 +18,9 @@ papers:
   - title: "[C1] B-MoCA: Benchmarking Mobile Device Control Agents across Diverse Configurations"
     authors: "<a href='https://jylee425.github.io/'>Juyong Lee</a>, <a href='https://mintaywon.github.io'>Taywon Min</a>, Minyong An, <a href='https://sites.google.com/view/kiminlee/group'>Haeone Lee</a>, <b><u>Dongyoon Hahm</u></b>, <a href='https://changyeon.site'>Changyeon Kim</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
     venue: "The Conference on Lifelong Learning Agents <b>(CoLLAs)</b>, 2025"
-    website: "https://mobilesafetybench.github.io/"
-    arxiv: "https://arxiv.org/abs/2410.17520"
-    code: "https://github.com/jylee425/mobilesafetybench"
+    website: "https://b-moca.github.io"
+    arxiv: "https://arxiv.org/abs/2404.16660"
+    code: "https://github.com/jylee425/b-moca"
     selected: y
 
   - title: "[J1] Programmable Building Blocks via Internal Stress Engineering for 3D Collective Assembly"
