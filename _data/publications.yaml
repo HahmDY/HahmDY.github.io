@@ -1,7 +1,7 @@
 papers:
 
   - title: "[P2] Mitigating Unintentional Misalignment of LLM Agents via Prefix Injection Guard"
-    authors: "<b><u>Dongyoon Hahm<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></u></b>, <a href='https://mintaywon.github.io'>Taywon Min<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/group'>Woogyeol Jin<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
+    authors: "<b><u>Dongyoon Hahm</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a href='https://mintaywon.github.io'>Taywon Min<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/group'>Woogyeol Jin<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
     venue: "Preprint"
     selected: y
 
