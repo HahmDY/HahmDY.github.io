@@ -1,9 +1,9 @@
 papers:
 
-  - title: "[P2] Mitigating Unintentional Misalignment of LLM Agents via Prefix Injection Guard"
-    authors: "<b><u>Dongyoon Hahm</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a href='https://mintaywon.github.io'>Taywon Min<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/group'>Woogyeol Jin<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
-    venue: "Preprint"
-    selected: y
+  # - title: "[P2] Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation"
+  #   authors: "<b><u>Dongyoon Hahm</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a href='https://mintaywon.github.io'>Taywon Min<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/group'>Woogyeol Jin<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
+  #   venue: "Preprint"
+  #   selected: y
 
   - title: "[C2] Enhancing LLM Agent Safety via Causal Influence Prompting"
     authors: "<b><u>Dongyoon Hahm</u></b>, <a href='https://sites.google.com/view/kiminlee/group'>Woogyeol Jin</a>, <a href='https://choi403.github.io'>June Suk Choi</a>, <a href='https://sites.google.com/view/sungsooahn0215'>Sungsoo Ahn</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
