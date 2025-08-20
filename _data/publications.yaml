@@ -3,6 +3,8 @@ papers:
   - title: "[P2] Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation"
     authors: "<b><u>Dongyoon Hahm</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a href='https://mintaywon.github.io'>Taywon Min<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/group'>Woogyeol Jin<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
     venue: "Preprint"
+    arxiv: "https://arxiv.org/abs/2508.14031"
+    code: "https://github.com/HahmDY/prefix_injection_guard"
     selected: y
 
   - title: "[C2] Enhancing LLM Agent Safety via Causal Influence Prompting"
