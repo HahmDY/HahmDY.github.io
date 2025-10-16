@@ -131,9 +131,8 @@ layout: default
     <p>{% if patent.inventors %}{{ patent.inventors }}{% endif %}</p>
     <p>
       <i>
-        {% if patent.office %}{{ patent.office }}{% endif %}
-        {% if patent.number %} {{ patent.number }}{% endif %}
-        {% if patent.status %} ({{ patent.status }}){% endif %}
+        {% if patent.number %}No. {{ patent.number }}{% endif %}
+        {% if patent.status %}{% if patent.number %} — {% endif %}{{ patent.status }}{% endif %}
       </i>
     </p>
     {% if patent.link %}
