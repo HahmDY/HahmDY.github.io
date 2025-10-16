@@ -1,7 +1,7 @@
 papers:
 
   - title: "[P3] Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation"
-    authors: "Sayash Kapoor, Benedikt Stroebl, Peter Kirgis, Nitya Nadgir, Zachary S Siegel, Boyi Wei, Tianci Xue, Ziru Chen, Felix Chen, Saiteja Utpala, Franck Ndzomga, Dheeraj Oruganty, Sophie Luskin, Kangheng Liu, Botao Yu, Amit Arora, <b><u>Dongyoon Hahm</u></b>, Harsh Trivedi, Huan Sun, Juyong Lee, Tengjun Jin, Yifan Mai, Yifei Zhou, Yuxuan Zhu, Rishi Bommasani, Daniel Kang, Dawn Song, Peter Henderson, Yu Su, Percy Liang, Arvind Narayanan"
+    authors: "Sayash Kapoor, Benedikt Stroebl, Peter Kirgis, Nitya Nadgir, Zachary S Siegel, Boyi Wei, Tianci Xue, Ziru Chen, Felix Chen, Saiteja Utpala, Franck Ndzomga, Dheeraj Oruganty, Sophie Luskin, Kangheng Liu, Botao Yu, Amit Arora, <b><u>Dongyoon Hahm</u></b>, Harsh Trivedi, Huan Sun, <a href='https://jylee425.github.io/'>Juyong Lee</a>, Tengjun Jin, Yifan Mai, Yifei Zhou, Yuxuan Zhu, Rishi Bommasani, Daniel Kang, <a href='https://dawnsong.io/'>Dawn Song</a>, Peter Henderson, Yu Su, <a href='https://cs.stanford.edu/~pliang/'>Percy Liang</a>, <a href='https://www.cs.princeton.edu/~arvindn/'>Arvind Narayanan</a>"
     venue: "Preprint"
     arxiv: "https://www.arxiv.org/abs/2510.11977"
     code: "https://github.com/princeton-pli/hal-harness"
