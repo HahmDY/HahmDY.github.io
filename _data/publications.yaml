@@ -17,7 +17,7 @@ papers:
 
   - title: "[C3] Enhancing LLM Agent Safety via Causal Influence Prompting"
     authors: "<b><u>Dongyoon Hahm</u></b>, <a href='https://sites.google.com/view/kiminlee/group'>Woogyeol Jin</a>, <a href='https://choi403.github.io'>June Suk Choi</a>, <a href='https://sites.google.com/view/sungsooahn0215'>Sungsoo Ahn</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
-    venue: "Findings of the Association for Computational Linguistics <b>(ACL Findings)</b>, 2025"
+    venue: "Annual Meeting of the Association for Computational Linguistics <b>(ACL)</b>, 2025 (findings)"
     arxiv: "https://arxiv.org/abs/2507.00979"
     code: "https://github.com/HahmDY/causal_influence_prompting"
     selected: y
