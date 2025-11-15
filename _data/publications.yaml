@@ -1,18 +1,11 @@
 papers:
 
-  - title: "[P1] Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation"
-    authors: "Sayash Kapoor, Benedikt Stroebl, Peter Kirgis, Nitya Nadgir, Zachary S Siegel, Boyi Wei, Tianci Xue, Ziru Chen, Felix Chen, Saiteja Utpala, Franck Ndzomga, Dheeraj Oruganty, Sophie Luskin, Kangheng Liu, Botao Yu, Amit Arora, <b><u>Dongyoon Hahm</u></b>, Harsh Trivedi, Huan Sun, <a href='https://jylee425.github.io/'>Juyong Lee</a>, Tengjun Jin, Yifan Mai, Yifei Zhou, Yuxuan Zhu, Rishi Bommasani, Daniel Kang, <a href='https://dawnsong.io/'>Dawn Song</a>, Peter Henderson, Yu Su, <a href='https://cs.stanford.edu/~pliang/'>Percy Liang</a>, <a href='https://www.cs.princeton.edu/~arvindn/'>Arvind Narayanan</a>"
-    venue: "Preprint"
-    arxiv: "https://www.arxiv.org/abs/2510.11977"
-    code: "https://github.com/princeton-pli/hal-harness"
-    website: "https://hal.cs.princeton.edu/"
-    selected: y
-
   - title: "[C4] Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation"
     authors: "<b><u>Dongyoon Hahm</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a href='https://mintaywon.github.io'>Taywon Min<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/group'>Woogyeol Jin<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
     venue: "AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, AI Alignment Track 2026"
     arxiv: "https://arxiv.org/abs/2508.14031"
-    code: "https://github.com/HahmDY/prefix_injection_guard"
+    code: "https://github.com/HahmDY/agentic-ft-safety"
+    website: "https://agentic-ft-safety.github.io"
     selected: y
 
   - title: "[C3] MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control"
@@ -21,6 +14,14 @@ papers:
     website: "https://mobilesafetybench.github.io/"
     arxiv: "https://arxiv.org/abs/2410.17520"
     code: "https://github.com/jylee425/mobilesafetybench"
+    selected: y
+
+  - title: "[P1] Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation"
+    authors: "Sayash Kapoor, Benedikt Stroebl, Peter Kirgis, Nitya Nadgir, Zachary S Siegel, Boyi Wei, Tianci Xue, Ziru Chen, Felix Chen, Saiteja Utpala, Franck Ndzomga, Dheeraj Oruganty, Sophie Luskin, Kangheng Liu, Botao Yu, Amit Arora, <b><u>Dongyoon Hahm</u></b>, Harsh Trivedi, Huan Sun, <a href='https://jylee425.github.io/'>Juyong Lee</a>, Tengjun Jin, Yifan Mai, Yifei Zhou, Yuxuan Zhu, Rishi Bommasani, Daniel Kang, <a href='https://dawnsong.io/'>Dawn Song</a>, Peter Henderson, Yu Su, <a href='https://cs.stanford.edu/~pliang/'>Percy Liang</a>, <a href='https://www.cs.princeton.edu/~arvindn/'>Arvind Narayanan</a>"
+    venue: "Preprint"
+    arxiv: "https://www.arxiv.org/abs/2510.11977"
+    code: "https://github.com/princeton-pli/hal-harness"
+    website: "https://hal.cs.princeton.edu/"
     selected: y
 
   - title: "[C2] Enhancing LLM Agent Safety via Causal Influence Prompting"
