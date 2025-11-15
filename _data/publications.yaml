@@ -2,7 +2,7 @@ papers:
 
   - title: "[C4] Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation"
     authors: "<b><u>Dongyoon Hahm</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a href='https://mintaywon.github.io'>Taywon Min<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/group'>Woogyeol Jin<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
-    venue: "AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, AI Alignment Track 2026"
+    venue: "AAAI 2026 AI Alignment Track"
     arxiv: "https://arxiv.org/abs/2508.14031"
     code: "https://github.com/HahmDY/agentic-ft-safety"
     website: "https://agentic-ft-safety.github.io"
@@ -10,14 +10,14 @@ papers:
 
   - title: "[C3] MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control"
     authors: "<a href='https://jylee425.github.io/'>Juyong Lee<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <b><u>Dongyoon Hahm</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a href='https://choi403.github.io'>June Suk Choi<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://bradknox.net/'>W. Bradley Knox</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
-    venue: "AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, AI Alignment Track 2026"
+    venue: "AAAI 2026 AI Alignment Track"
     website: "https://mobilesafetybench.github.io/"
     arxiv: "https://arxiv.org/abs/2410.17520"
     code: "https://github.com/jylee425/mobilesafetybench"
     selected: y
 
   - title: "[P1] Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation"
-    authors: "Sayash Kapoor, Benedikt Stroebl, Peter Kirgis, Nitya Nadgir, Zachary S Siegel, Boyi Wei, Tianci Xue, Ziru Chen, Felix Chen, Saiteja Utpala, Franck Ndzomga, Dheeraj Oruganty, Sophie Luskin, Kangheng Liu, Botao Yu, Amit Arora, <b><u>Dongyoon Hahm</u></b>, Harsh Trivedi, Huan Sun, <a href='https://jylee425.github.io/'>Juyong Lee</a>, Tengjun Jin, Yifan Mai, Yifei Zhou, Yuxuan Zhu, Rishi Bommasani, Daniel Kang, <a href='https://dawnsong.io/'>Dawn Song</a>, Peter Henderson, Yu Su, <a href='https://cs.stanford.edu/~pliang/'>Percy Liang</a>, <a href='https://www.cs.princeton.edu/~arvindn/'>Arvind Narayanan</a>"
+    authors: "<a href='https://www.cs.princeton.edu/~sayashk/'>Sayash Kapoor</a>, Benedikt Stroebl, Peter Kirgis, Nitya Nadgir, Zachary S Siegel, Boyi Wei, Tianci Xue, Ziru Chen, Felix Chen, Saiteja Utpala, Franck Ndzomga, Dheeraj Oruganty, Sophie Luskin, Kangheng Liu, Botao Yu, Amit Arora, <b><u>Dongyoon Hahm</u></b>, Harsh Trivedi, Huan Sun, <a href='https://jylee425.github.io/'>Juyong Lee</a>, Tengjun Jin, Yifan Mai, Yifei Zhou, Yuxuan Zhu, Rishi Bommasani, Daniel Kang, <a href='https://dawnsong.io/'>Dawn Song</a>, Peter Henderson, Yu Su, <a href='https://cs.stanford.edu/~pliang/'>Percy Liang</a>, <a href='https://www.cs.princeton.edu/~arvindn/'>Arvind Narayanan</a>"
     venue: "Preprint"
     arxiv: "https://www.arxiv.org/abs/2510.11977"
     code: "https://github.com/princeton-pli/hal-harness"
@@ -26,14 +26,14 @@ papers:
 
   - title: "[C2] Enhancing LLM Agent Safety via Causal Influence Prompting"
     authors: "<b><u>Dongyoon Hahm</u></b>, <a href='https://sites.google.com/view/kiminlee/group'>Woogyeol Jin</a>, <a href='https://choi403.github.io'>June Suk Choi</a>, <a href='https://sites.google.com/view/sungsooahn0215'>Sungsoo Ahn</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
-    venue: "Annual Meeting of the Association for Computational Linguistics <b>(ACL)</b>, 2025 (findings)"
+    venue: "ACL 2025 (findings)"
     arxiv: "https://arxiv.org/abs/2507.00979"
     code: "https://github.com/HahmDY/causal_influence_prompting"
     selected: y
 
   - title: "[C1] B-MoCA: Benchmarking Mobile Device Control Agents across Diverse Configurations"
     authors: "<a href='https://jylee425.github.io/'>Juyong Lee</a>, <a href='https://mintaywon.github.io'>Taywon Min</a>, Minyong An, <a href='https://sites.google.com/view/kiminlee/group'>Haeone Lee</a>, <b><u>Dongyoon Hahm</u></b>, <a href='https://changyeon.site'>Changyeon Kim</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
-    venue: "The Conference on Lifelong Learning Agents <b>(CoLLAs)</b>, 2025"
+    venue: "CoLLAs 2025 & GenAI4DM Workshop @ ICLR 2024 <b><span style='color: red;'>(Spotlight)</span></b>"
     website: "https://b-moca.github.io"
     arxiv: "https://arxiv.org/abs/2404.16660"
     code: "https://github.com/jylee425/b-moca"
@@ -53,3 +53,4 @@ papers:
 # Haeone Lee: https://sites.google.com/view/kiminlee/group
 # Woogyeol Jin: https://sites.google.com/view/kiminlee/group
 # Changyeon Kim: https://changyeon.site
+# Sayash Kapoor: https://www.cs.princeton.edu/~sayashk/
