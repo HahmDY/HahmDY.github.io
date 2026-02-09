@@ -1,5 +1,10 @@
 papers:
 
+  - title: "[P1] Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases"
+    authors: "<b><u>Dongyoon Hahm</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a href='https://people.csail.mit.edu/dhm/'>Dylan Hadfield-Menell</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
+    venue: "Under Review"
+    selected: y
+
   - title: "[C5] Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation"
     authors: "<a href='https://www.cs.princeton.edu/~sayashk/'>Sayash Kapoor</a>, Benedikt Stroebl, Peter Kirgis, Nitya Nadgir, Zachary S Siegel, Boyi Wei, Tianci Xue, Ziru Chen, Felix Chen, Saiteja Utpala, Franck Ndzomga, Dheeraj Oruganty, Sophie Luskin, Kangheng Liu, Botao Yu, Amit Arora, <b><u>Dongyoon Hahm</u></b>, Harsh Trivedi, Huan Sun, <a href='https://jylee425.github.io/'>Juyong Lee</a>, Tengjun Jin, Yifan Mai, Yifei Zhou, Yuxuan Zhu, Rishi Bommasani, Daniel Kang, <a href='https://dawnsong.io/'>Dawn Song</a>, Peter Henderson, Yu Su, <a href='https://cs.stanford.edu/~pliang/'>Percy Liang</a>, <a href='https://www.cs.princeton.edu/~arvindn/'>Arvind Narayanan</a>"
     venue: "ICLR 2026"
