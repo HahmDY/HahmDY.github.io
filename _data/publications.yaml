@@ -1,7 +1,7 @@
 papers:
 
   - title: "[P1] Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases"
-    authors: "<b><u>Dongyoon Hahm</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a href='https://people.csail.mit.edu/dhm/'>Dylan Hadfield-Menell</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
+    authors: "<b><u>Dongyoon Hahm</u></b>, <a href='https://people.csail.mit.edu/dhm/'>Dylan Hadfield-Menell</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
     venue: "Under Review"
     selected: y
 
