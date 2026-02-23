@@ -5,6 +5,11 @@ papers:
   #   venue: "Under Review"
   #   selected: y
 
+  - title: "[C6] Learning Multi-View Spatial Reasoning from Cross-View Relations"
+    authors: "Suchae Jeong, Jaehwi Song, Haeone Lee, Hanna Kim, Jian Kim, Dongjun Lee, Dongkyu Shin, <a href='https://changyeon.site'>Changyeon Kim</a>, <b><u>Dongyoon Hahm</u>, Woogyeol Jin, Juheon Choi, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
+    venue: "CVPR 2026"
+    selected: y
+
   - title: "[C5] Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation"
     authors: "<a href='https://www.cs.princeton.edu/~sayashk/'>Sayash Kapoor</a>, Benedikt Stroebl, Peter Kirgis, Nitya Nadgir, Zachary S Siegel, Boyi Wei, Tianci Xue, Ziru Chen, Felix Chen, Saiteja Utpala, Franck Ndzomga, Dheeraj Oruganty, Sophie Luskin, Kangheng Liu, Botao Yu, Amit Arora, <b><u>Dongyoon Hahm</u></b>, Harsh Trivedi, Huan Sun, <a href='https://jylee425.github.io/'>Juyong Lee</a>, Tengjun Jin, Yifan Mai, Yifei Zhou, Yuxuan Zhu, Rishi Bommasani, Daniel Kang, <a href='https://dawnsong.io/'>Dawn Song</a>, Peter Henderson, Yu Su, <a href='https://cs.stanford.edu/~pliang/'>Percy Liang</a>, <a href='https://www.cs.princeton.edu/~arvindn/'>Arvind Narayanan</a>"
     venue: "ICLR 2026"
@@ -51,11 +56,11 @@ papers:
     selected: y
 
 # Homepages
-# Kimin Lee: https://sites.google.com/view/kiminlee/
+# Kimin Lee: <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>
 # Juyong Lee: https://jylee425.github.io
 # June Suk Choi: https://choi403.github.io
 # Taywon Min: https://mintaywon.github.io
 # Haeone Lee: https://sites.google.com/view/kiminlee/group
 # Woogyeol Jin: https://sites.google.com/view/kiminlee/group
-# Changyeon Kim: https://changyeon.site
+# Changyeon Kim: <a href='https://changyeon.site'>Changyeon Kim</a>
 # Sayash Kapoor: https://www.cs.princeton.edu/~sayashk/
