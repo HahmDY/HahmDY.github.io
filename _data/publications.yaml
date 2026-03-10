@@ -6,7 +6,7 @@ papers:
   #   selected: y
 
   - title: "[C6] Learning Multi-View Spatial Reasoning from Cross-View Relations"
-    authors: "Suchae Jeong, Jaehwi Song, Haeone Lee, Hanna Kim, Jian Kim, Dongjun Lee, Dongkyu Shin, <a href='https://changyeon.site'>Changyeon Kim</a>, <b><u>Dongyoon Hahm</u>, Woogyeol Jin, Juheon Choi, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
+    authors: "<a href='https://sites.google.com/view/suchaejeong'>Suchae Jeong</a>, <a href='https://songjaehwi.github.io/'>Jaehwi Song</a>, <a href='https://haeone.site/'>Haeone Lee</a>, Hanna Kim, <a href='https://jiankimr.github.io/'>Jian Kim</a>, <a href='https://dgjun32.github.io/'>Dongjun Lee</a>, <a href='https://donkeyu99.github.io/'>Dongkyu Shin</a>, <a href='https://changyeon.site'>Changyeon Kim</a>, <b><u>Dongyoon Hahm</u>, Woogyeol Jin, Juheon Choi, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
     venue: "CVPR 2026"
     selected: y
 
