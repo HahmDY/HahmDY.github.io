@@ -3,6 +3,8 @@ papers:
   - title: "[C7] Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases"
     authors: "<b><u>Dongyoon Hahm</u></b>, <a href='https://people.csail.mit.edu/dhm/'>Dylan Hadfield-Menell</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
     venue: "ICML 2026"
+    code: "https://github.com/alignment-tampering/alignment-tampering"
+    website: "https://alignment-tampering.github.io/"
     selected: y
 
   - title: "[C6] Learning Multi-View Spatial Reasoning from Cross-View Relations"
