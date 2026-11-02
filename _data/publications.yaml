@@ -1,5 +1,11 @@
 papers:
 
+  - title: "[P1] Behavioral Couplings: From Formation to Behavioral Emergence in Language Models"
+    authors: "<b><u>Dongyoon Hahm</u></b>, <a href='https://wls04.github.io/'>Woogyeol Jin</a>, <a href='https://sites.google.com/site/dennislwei/'>Dennis Wei</a>, <a href='https://research.ibm.com/people/yi-zhou'>Yi Zhou</a>, <a href='https://research.ibm.com/people/nathalie-baracaldo-angel'>Nathalie Baracaldo</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
+    venue: "Preprint"
+    arxiv: "https://arxiv.org/abs/2610.23847"
+    selected: y
+
   - title: "[C7] Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases"
     authors: "<b><u>Dongyoon Hahm</u></b>, <a href='https://people.csail.mit.edu/dhm/'>Dylan Hadfield-Menell</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
     venue: "ICML 2026"
